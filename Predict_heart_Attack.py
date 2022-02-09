@@ -19,7 +19,7 @@ from sklearn.model_selection import cross_val_score
 import seaborn as sns
 
 #read current path
-os.chdir(r"C:\Users\masou\Lixar assignment")
+os.chdir(r"C:\Users\masou")
 cwd = os.getcwd()
 d='echocardiogram.data'
 t='echocardiogram.test'
